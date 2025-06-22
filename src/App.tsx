@@ -3,6 +3,7 @@ import Navigation from "./components/Navigation";
 import HomePage from "./components/HomePage";
 import PlatillosPage from "./components/PlatillosPage";
 import BebidasPage from "./components/BebidasPage";
+import MobileOptimizedBanner from "./components/MobileOptimizedBanner";
 import "./App.css";
 
 type Section = 'home' | 'platillos' | 'bebidas';
@@ -31,6 +32,8 @@ function App() {
 
   return (
     <div className="min-h-screen bg-zinc-950 font-inter">
+      {/* Banner para dispositivos no móviles */}
+      <MobileOptimizedBanner />
       <Navigation currentSection={currentSection} onNavigate={handleNavigate} />
       <main className="transition-all duration-500 ease-in-out">
         {renderCurrentSection()}

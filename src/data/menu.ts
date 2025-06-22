@@ -26,7 +26,7 @@ export const platillos: Platillo[] = [
     precio: 380,
     picante: 1,
     categoria: "Tacos Gourmet",
-    imagen: "https://images.pexels.com/photos/4958792/pexels-photo-4958792.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1565299507177-b0ac66763828?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ export const platillos: Platillo[] = [
     precio: 420,
     picante: 2,
     categoria: "Platos Fuertes",
-    imagen: "https://images.pexels.com/photos/5848392/pexels-photo-5848392.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1563379091339-03246963d96a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 3,
@@ -44,7 +44,7 @@ export const platillos: Platillo[] = [
     precio: 295,
     picante: 2,
     categoria: "Entradas",
-    imagen: "https://images.pexels.com/photos/1234535/pexels-photo-1234535.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ export const platillos: Platillo[] = [
     precio: 365,
     picante: 1,
     categoria: "Especialidades",
-    imagen: "https://images.pexels.com/photos/4518654/pexels-photo-4518654.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1615361200098-635299ec42bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 5,
@@ -62,7 +62,7 @@ export const platillos: Platillo[] = [
     precio: 185,
     picante: 1,
     categoria: "Entradas",
-    imagen: "https://images.pexels.com/photos/2878731/pexels-photo-2878731.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 6,
@@ -71,7 +71,7 @@ export const platillos: Platillo[] = [
     precio: 385,
     picante: 0,
     categoria: "Especialidades",
-    imagen: "https://images.pexels.com/photos/5949888/pexels-photo-5949888.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 7,
@@ -80,7 +80,7 @@ export const platillos: Platillo[] = [
     precio: 320,
     picante: 3,
     categoria: "Tacos Gourmet",
-    imagen: "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1559847844-d022a0056cd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 8,
@@ -89,7 +89,7 @@ export const platillos: Platillo[] = [
     precio: 145,
     picante: 0,
     categoria: "Postres",
-    imagen: "https://images.pexels.com/photos/3992134/pexels-photo-3992134.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 9,
@@ -98,7 +98,7 @@ export const platillos: Platillo[] = [
     precio: 445,
     picante: 2,
     categoria: "Platos Fuertes",
-    imagen: "https://images.pexels.com/photos/5949069/pexels-photo-5949069.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1559847844-d022a0056cd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 10,
@@ -107,7 +107,7 @@ export const platillos: Platillo[] = [
     precio: 125,
     picante: 0,
     categoria: "Postres",
-    imagen: "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 11,
@@ -116,7 +116,7 @@ export const platillos: Platillo[] = [
     precio: 285,
     picante: 1,
     categoria: "Tacos Gourmet",
-    imagen: "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1559847844-d022a0056cd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 12,
@@ -125,7 +125,7 @@ export const platillos: Platillo[] = [
     precio: 245,
     picante: 3,
     categoria: "Platos Fuertes",
-    imagen: "https://images.pexels.com/photos/5949888/pexels-photo-5949888.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 13,
@@ -134,7 +134,7 @@ export const platillos: Platillo[] = [
     precio: 165,
     picante: 1,
     categoria: "Entradas",
-    imagen: "https://images.pexels.com/photos/5848392/pexels-photo-5848392.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 14,
@@ -143,7 +143,7 @@ export const platillos: Platillo[] = [
     precio: 485,
     picante: 0,
     categoria: "Platos Fuertes",
-    imagen: "https://images.pexels.com/photos/4518654/pexels-photo-4518654.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1615361200098-635299ec42bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 15,
@@ -152,7 +152,7 @@ export const platillos: Platillo[] = [
     precio: 135,
     picante: 0,
     categoria: "Postres",
-    imagen: "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1541599468348-e96984315921?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 16,
@@ -161,7 +161,7 @@ export const platillos: Platillo[] = [
     precio: 195,
     picante: 0,
     categoria: "Entradas",
-    imagen: "https://images.pexels.com/photos/4958792/pexels-photo-4958792.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1618040996337-56904b7850b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 17,
@@ -170,7 +170,7 @@ export const platillos: Platillo[] = [
     precio: 395,
     picante: 1,
     categoria: "Especialidades",
-    imagen: "https://images.pexels.com/photos/5848392/pexels-photo-5848392.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1563379091339-03246963d96a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 18,
@@ -179,7 +179,7 @@ export const platillos: Platillo[] = [
     precio: 295,
     picante: 3,
     categoria: "Tacos Gourmet",
-    imagen: "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1615361200098-635299ec42bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   // 10 platillos adicionales con niveles de picante variados
   {
@@ -189,7 +189,7 @@ export const platillos: Platillo[] = [
     precio: 325,
     picante: 3,
     categoria: "Entradas",
-    imagen: "https://images.pexels.com/photos/1234535/pexels-photo-1234535.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 20,
@@ -198,7 +198,7 @@ export const platillos: Platillo[] = [
     precio: 420,
     picante: 2,
     categoria: "Tacos Gourmet",
-    imagen: "https://images.pexels.com/photos/4958792/pexels-photo-4958792.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1559847844-d022a0056cd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 21,
@@ -207,7 +207,7 @@ export const platillos: Platillo[] = [
     precio: 465,
     picante: 1,
     categoria: "Platos Fuertes",
-    imagen: "https://images.pexels.com/photos/5949069/pexels-photo-5949069.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1559847844-d022a0056cd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 22,
@@ -216,7 +216,7 @@ export const platillos: Platillo[] = [
     precio: 235,
     picante: 2,
     categoria: "Especialidades",
-    imagen: "https://images.pexels.com/photos/5848392/pexels-photo-5848392.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1615361200361-e1b13b1fad70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 23,
@@ -225,7 +225,7 @@ export const platillos: Platillo[] = [
     precio: 125,
     picante: 2,
     categoria: "Entradas",
-    imagen: "https://images.pexels.com/photos/2878731/pexels-photo-2878731.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 24,
@@ -234,7 +234,7 @@ export const platillos: Platillo[] = [
     precio: 525,
     picante: 0,
     categoria: "Platos Fuertes",
-    imagen: "https://images.pexels.com/photos/4518654/pexels-photo-4518654.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1615361200098-635299ec42bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 25,
@@ -243,7 +243,7 @@ export const platillos: Platillo[] = [
     precio: 155,
     picante: 1,
     categoria: "Postres",
-    imagen: "https://images.pexels.com/photos/3992134/pexels-photo-3992134.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 26,
@@ -252,7 +252,7 @@ export const platillos: Platillo[] = [
     precio: 295,
     picante: 2,
     categoria: "Tacos Gourmet",
-    imagen: "https://images.pexels.com/photos/2092507/pexels-photo-2092507.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1559847844-d022a0056cd5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 27,
@@ -261,7 +261,7 @@ export const platillos: Platillo[] = [
     precio: 285,
     picante: 1,
     categoria: "Especialidades",
-    imagen: "https://images.pexels.com/photos/5949888/pexels-photo-5949888.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   },
   {
     id: 28,
@@ -270,208 +270,198 @@ export const platillos: Platillo[] = [
     precio: 115,
     picante: 1,
     categoria: "Postres",
-    imagen: "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imagen: "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
   }
 ];
 
 export const bebidas: Bebida[] = [
   {
     id: 1,
-    nombre: "Mezcal Artesanal Espadin",
-    descripcion: "Mezcal 100% agave espadin de Oaxaca, servido con sal de gusano y naranja",
-    precio: 180,
-    categoria: "Destilados",
-    imagen: "https://images.pexels.com/photos/5947043/pexels-photo-5947043.jpeg?auto=compress&cs=tinysrgb&w=600",
+    nombre: "Margarita Clásica",
+    descripcion: "Tequila blanco, triple sec, jugo de limón fresco y sal en el borde.",
+    precio: 165,
+    categoria: "Cócteles",
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 2,
-    nombre: "Margarita de Tamarindo",
-    descripcion: "Tequila blanco, licor de tamarindo, limón fresco, chile tajín en el borde",
-    precio: 165,
-    categoria: "Cócteles",
-    imagen: "https://images.pexels.com/photos/1535244/pexels-photo-1535244.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: true
-  },
-  {
-    id: 3,
-    nombre: "Agua de Jamaica con Hierbabuena",
-    descripcion: "Agua fresca de flor de jamaica natural con hierbabuena y limón",
+    nombre: "Agua de Horchata",
+    descripcion: "Bebida tradicional de arroz con canela, vainilla y leche condensada.",
     precio: 65,
     categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: false
   },
   {
-    id: 4,
-    nombre: "Paloma Gourmet",
-    descripcion: "Tequila reposado, toronja rosa, agua mineral, sal de mar y chile piquín",
+    id: 3,
+    nombre: "Mezcal de la Casa",
+    descripcion: "Mezcal artesanal de Oaxaca servido con sal de gusano y naranja.",
     precio: 155,
     categoria: "Cócteles",
-    imagen: "https://images.pexels.com/photos/1535244/pexels-photo-1535244.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    alcoholica: true
+  },
+  {
+    id: 4,
+    nombre: "Cerveza Corona",
+    descripcion: "Cerveza mexicana ligera servida con limón y sal.",
+    precio: 95,
+    categoria: "Cervezas",
+    imagen: "https://images.unsplash.com/photo-1513569771920-c9e1d31714af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 5,
-    nombre: "Cerveza Artesanal IPA",
-    descripcion: "Cerveza artesanal mexicana tipo IPA con notas cítricas y amargor balanceado",
-    precio: 95,
-    categoria: "Cervezas",
-    imagen: "https://images.pexels.com/photos/1552630/pexels-photo-1552630.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: true
-  },
-  {
-    id: 6,
-    nombre: "Horchata de Coco",
-    descripcion: "Horchata tradicional con leche de coco, canela de Ceylon y almendras tostadas",
+    nombre: "Agua de Jamaica",
+    descripcion: "Refrescante bebida de flor de jamaica endulzada naturalmente.",
     precio: 85,
     categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: false
   },
   {
-    id: 7,
+    id: 6,
     nombre: "Vino Tinto Casa Madero",
-    descripcion: "Vino tinto mexicano blend de cabernet sauvignon y merlot, Reserva Especial",
+    descripcion: "Vino tinto mexicano con notas frutales y especiadas.",
     precio: 320,
     categoria: "Vinos",
-    imagen: "https://images.pexels.com/photos/1407846/pexels-photo-1407846.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1506377872008-6645d6b29ddb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    alcoholica: true
+  },
+  {
+    id: 7,
+    nombre: "Michelada",
+    descripcion: "Cerveza Modelo con limón, sal, chamoy, clamato y salsas especiales.",
+    precio: 115,
+    categoria: "Cervezas",
+    imagen: "https://images.unsplash.com/photo-1513569771920-c9e1d31714af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 8,
-    nombre: "Michelada Especial",
-    descripcion: "Cerveza clara con jugo de limón, salsa inglesa, chile piquín y sal de apio",
-    precio: 115,
-    categoria: "Cervezas",
-    imagen: "https://images.pexels.com/photos/1552630/pexels-photo-1552630.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: true
-  },
-  {
-    id: 9,
     nombre: "Agua de Tamarindo",
-    descripcion: "Agua fresca de tamarindo natural con chile piquín y limón",
+    descripcion: "Bebida agridulce de tamarindo con un toque de chile.",
     precio: 70,
     categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: false
   },
   {
-    id: 10,
-    nombre: "Tequila Añejo Premium",
-    descripcion: "Tequila 100% agave añejo de 3 años, servido en copa de cristal",
+    id: 9,
+    nombre: "Tequila Reposado",
+    descripcion: "Tequila 100% agave reposado en barricas de roble.",
     precio: 220,
     categoria: "Destilados",
-    imagen: "https://images.pexels.com/photos/5947043/pexels-photo-5947043.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    alcoholica: true
+  },
+  {
+    id: 10,
+    nombre: "Paloma",
+    descripcion: "Tequila blanco con toronja fresca, limón y sal.",
+    precio: 145,
+    categoria: "Cócteles",
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 11,
-    nombre: "Mojito de Hierba Santa",
-    descripcion: "Ron blanco, hierba santa, limón, azúcar de caña y agua mineral",
-    precio: 145,
-    categoria: "Cócteles",
-    imagen: "https://images.pexels.com/photos/1535244/pexels-photo-1535244.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: true
+    nombre: "Agua de Sandía",
+    descripcion: "Refrescante agua de sandía con chile y limón.",
+    precio: 75,
+    categoria: "Sin Alcohol",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    alcoholica: false
   },
   {
     id: 12,
-    nombre: "Agua de Horchata con Canela",
-    descripcion: "Horchata de arroz tradicional con canela molida y leche condensada",
-    precio: 75,
-    categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: false
-  },
-  // 10 bebidas adicionales
-  {
-    id: 13,
-    nombre: "Mezcal Tobala Artesanal",
-    descripcion: "Mezcal premium de agave tobala silvestre, notas florales y ahumadas únicas",
+    nombre: "Pulque Natural",
+    descripcion: "Bebida ancestral fermentada del maguey, sabor natural.",
     precio: 280,
     categoria: "Destilados",
-    imagen: "https://images.pexels.com/photos/5947043/pexels-photo-5947043.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
-    id: 14,
-    nombre: "Agua de Chía con Limón",
-    descripcion: "Semillas de chía hidratadas con agua de limón, menta fresca y endulzante natural",
+    id: 13,
+    nombre: "Limonada",
+    descripcion: "Limonada natural con agua mineral y hierbabuena.",
     precio: 80,
     categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: false
   },
   {
-    id: 15,
-    nombre: "Sangría Mexicana",
-    descripcion: "Vino tinto con frutas tropicales, tequila blanco, agua mineral y especias",
+    id: 14,
+    nombre: "Vino Blanco L.A. Cetto",
+    descripcion: "Vino blanco de Baja California con notas cítricas.",
     precio: 185,
     categoria: "Vinos",
-    imagen: "https://images.pexels.com/photos/1407846/pexels-photo-1407846.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1506377872008-6645d6b29ddb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    alcoholica: true
+  },
+  {
+    id: 15,
+    nombre: "Cerveza Dos Equis",
+    descripcion: "Cerveza premium mexicana tipo lager.",
+    precio: 105,
+    categoria: "Cervezas",
+    imagen: "https://images.unsplash.com/photo-1513569771920-c9e1d31714af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 16,
-    nombre: "Cerveza de Trigo Artesanal",
-    descripcion: "Cerveza de trigo mexicana con notas cítricas, servida con rodaja de naranja",
-    precio: 105,
-    categoria: "Cervezas",
-    imagen: "https://images.pexels.com/photos/1552630/pexels-photo-1552630.jpeg?auto=compress&cs=tinysrgb&w=600",
+    nombre: "Mojito Mexicano",
+    descripcion: "Rum blanco con hierbabuena fresca, limón y chile.",
+    precio: 125,
+    categoria: "Cócteles",
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 17,
-    nombre: "Carajillo Mexicano",
-    descripcion: "Café espresso con licor 43, canela, cáscara de naranja y hielo",
-    precio: 125,
-    categoria: "Cócteles",
-    imagen: "https://images.pexels.com/photos/1535244/pexels-photo-1535244.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: true
-  },
-  {
-    id: 18,
-    nombre: "Agua de Mango con Chile",
-    descripcion: "Agua fresca de mango manila con chile piquín, limón y sal de mar",
+    nombre: "Agua Mineral",
+    descripcion: "Agua mineral natural con limón.",
     precio: 75,
     categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: false
   },
   {
-    id: 19,
-    nombre: "Raicilla de la Costa",
-    descripcion: "Destilado artesanal de agave de la costa de Jalisco, servido con sal y limón",
+    id: 18,
+    nombre: "Whisky Nacional",
+    descripcion: "Whisky mexicano añejado con notas ahumadas.",
     precio: 195,
     categoria: "Destilados",
-    imagen: "https://images.pexels.com/photos/5947043/pexels-photo-5947043.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    alcoholica: true
+  },
+  {
+    id: 19,
+    nombre: "Cerveza Artesanal",
+    descripcion: "Cerveza artesanal mexicana de temporada.",
+    precio: 95,
+    categoria: "Cervezas",
+    imagen: "https://images.unsplash.com/photo-1513569771920-c9e1d31714af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 20,
-    nombre: "Chelada Preparada",
-    descripcion: "Cerveza clara con jugo de limón, sal, chile piquín y salsa maggi",
-    precio: 95,
-    categoria: "Cervezas",
-    imagen: "https://images.pexels.com/photos/1552630/pexels-photo-1552630.jpeg?auto=compress&cs=tinysrgb&w=600",
+    nombre: "Sangría Mexicana",
+    descripcion: "Vino tinto con frutas tropicales y especias mexicanas.",
+    precio: 175,
+    categoria: "Cócteles",
+    imagen: "https://images.unsplash.com/photo-1551024506-0bccd828d307?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: true
   },
   {
     id: 21,
-    nombre: "Margarita de Mango Habanero",
-    descripcion: "Tequila reposado, puré de mango, chile habanero, limón y sal de chile",
-    precio: 175,
-    categoria: "Cócteles",
-    imagen: "https://images.pexels.com/photos/1535244/pexels-photo-1535244.jpeg?auto=compress&cs=tinysrgb&w=600",
-    alcoholica: true
-  },
-  {
-    id: 22,
-    nombre: "Agua de Hibisco con Jengibre",
-    descripcion: "Infusión fría de flor de hibisco con jengibre fresco, miel de agave y limón",
+    nombre: "Tepache",
+    descripcion: "Bebida fermentada de piña con canela y piloncillo.",
     precio: 70,
     categoria: "Sin Alcohol",
-    imagen: "https://images.pexels.com/photos/1435735/pexels-photo-1435735.jpeg?auto=compress&cs=tinysrgb&w=600",
+    imagen: "https://images.unsplash.com/photo-1544787219-7f47ccb76574?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
     alcoholica: false
   }
 ];
