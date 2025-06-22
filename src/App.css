@@ -1,0 +1,133 @@
+/* Elegant dark theme styles for ElChipil gourmet restaurant */
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background-color: #09090b;
+}
+
+/* Custom font families */
+.font-playfair {
+  font-family: 'Playfair Display', serif;
+}
+
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Smooth transitions for all interactive elements */
+* {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Custom scrollbar styling - elegant dark theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #18181b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3f3f46;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #52525b;
+}
+
+/* Line clamp utility for text truncation */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Improved focus states for accessibility */
+.focus-visible:focus {
+  outline: 2px solid #d4af37;
+  outline-offset: 2px;
+}
+
+/* Optimize image loading */
+img {
+  loading: lazy;
+  object-fit: cover;
+}
+
+/* Prevent text selection on UI elements */
+button, .select-none {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Enhanced backdrop blur support */
+.backdrop-blur-sm {
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.backdrop-blur-md {
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Smooth scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Elegant glow effects */
+.glow-gold {
+  box-shadow: 0 0 20px rgba(212, 175, 55, 0.3);
+}
+
+.glow-gold-hover:hover {
+  box-shadow: 0 0 30px rgba(212, 175, 55, 0.5);
+}
+
+/* Custom gradient backgrounds */
+.bg-elegant-dark {
+  background: linear-gradient(135deg, #09090b 0%, #18181b 50%, #27272a 100%);
+}
+
+.bg-card-dark {
+  background: linear-gradient(135deg, #18181b 0%, #27272a 100%);
+}
+
+/* Typography enhancements */
+.text-shadow-gold {
+  text-shadow: 0 2px 4px rgba(212, 175, 55, 0.3);
+}
+
+/* Print styles for menu accessibility */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  
+  .bg-zinc-950,
+  .bg-zinc-900,
+  .bg-zinc-800 {
+    background: white !important;
+    color: black !important;
+  }
+}
