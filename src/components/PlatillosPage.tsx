@@ -4,7 +4,8 @@ import MenuCard from "./MenuCard";
 import { platillos, categoriasPlatillos } from "@/data/menu";
 
 export default function PlatillosPage() {
-  const [selectedCategory, setSelectedCategory] = useState<string>('Todos');
+  // Estado para la categoría seleccionada, por defecto 'Entradas'
+  const [selectedCategory, setSelectedCategory] = useState<string>('Entradas');
 
   const filteredPlatillos = selectedCategory === 'Todos' 
     ? platillos 
@@ -98,6 +99,16 @@ export default function PlatillosPage() {
             </p>
           </div>
         )}
+
+        {/* Botón flotante para regresar arriba */}
+        <button
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="fixed bottom-8 right-8 z-50 bg-yellow-600 hover:bg-yellow-700 text-white font-bold py-3 px-5 rounded-full shadow-lg transition-all duration-300 border-2 border-yellow-800/40 backdrop-blur-md"
+          title="Regresar arriba"
+          aria-label="Regresar arriba"
+        >
+          ↑ Regresar arriba
+        </button>
       </div>
     </div>
   );

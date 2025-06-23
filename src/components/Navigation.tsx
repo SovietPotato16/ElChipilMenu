@@ -25,7 +25,11 @@ export default function Navigation({ currentSection, onNavigate }: NavigationPro
           </Button>
           
           <div className="text-center">
-            <h2 className="text-3xl md:text-4xl font-bold text-white font-playfair italic mb-1">
+            <h2 
+              className="text-3xl md:text-4xl font-bold text-white font-playfair italic mb-1 cursor-pointer hover:text-yellow-500 transition-colors duration-200"
+              onClick={() => onNavigate('home')}
+              title="Ir al inicio"
+            >
               ElChipil
             </h2>
             <p className="text-zinc-400 text-sm font-light">
