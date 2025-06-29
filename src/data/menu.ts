@@ -18,7 +18,7 @@ export interface Bebida {
   alcoholica?: boolean;
 }
 
-// Platillos con imágenes locales asignadas
+// Platillos con imágenes locales asignadas desde public/images/
 export const platillos: Platillo[] = [
   {
     id: 1,
@@ -27,7 +27,7 @@ export const platillos: Platillo[] = [
     precio: 380,
     picante: 1,
     categoria: "Tacos Gourmet",
-    imagen: "/src/Images/tacosdepato.jpg"
+    imagen: "/images/tacosdepato.jpg"
   },
   {
     id: 2,
@@ -36,7 +36,7 @@ export const platillos: Platillo[] = [
     precio: 420,
     picante: 2,
     categoria: "Platos Fuertes",
-    imagen: "/src/Images/molenegro.jpg"
+    imagen: "/images/molenegro.jpg"
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ export const platillos: Platillo[] = [
     precio: 295,
     picante: 2,
     categoria: "Entradas",
-    imagen: "/src/Images/Ceviche_robalo.jpg"
+    imagen: "/images/Ceviche_robalo.jpg"
   },
   {
     id: 4,
@@ -54,7 +54,7 @@ export const platillos: Platillo[] = [
     precio: 365,
     picante: 1,
     categoria: "Especialidades",
-    imagen: "/src/Images/CochinitaPibil.jpg"
+    imagen: "/images/CochinitaPibil.jpg"
   },
   {
     id: 5,
@@ -63,7 +63,7 @@ export const platillos: Platillo[] = [
     precio: 185,
     picante: 1,
     categoria: "Entradas",
-    imagen: "/src/Images/GuacamoleDelChef.jpg"
+    imagen: "/images/GuacamoleDelChef.jpg"
   },
   {
     id: 6,
@@ -72,7 +72,7 @@ export const platillos: Platillo[] = [
     precio: 385,
     picante: 0,
     categoria: "Especialidades",
-    imagen: "/src/Images/ChilesEnNogada.webp"
+    imagen: "/images/ChilesEnNogada.webp"
   },
   {
     id: 7,
@@ -81,7 +81,7 @@ export const platillos: Platillo[] = [
     precio: 320,
     picante: 3,
     categoria: "Tacos Gourmet",
-    imagen: "/src/Images/TacosDePescasoZarandeado.avif"
+    imagen: "/images/TacosDePescasoZarandeado.avif"
   },
   {
     id: 8,
@@ -90,7 +90,7 @@ export const platillos: Platillo[] = [
     precio: 145,
     picante: 0,
     categoria: "Postres",
-    imagen: "/src/Images/FlandeCajeta.webp"
+    imagen: "/images/FlandeCajeta.webp"
   },
   {
     id: 9,
@@ -99,7 +99,7 @@ export const platillos: Platillo[] = [
     precio: 445,
     picante: 2,
     categoria: "Platos Fuertes",
-    imagen: "/src/Images/PulpoAlasBrasas.jpg"
+    imagen: "/images/PulpoAlasBrasas.jpg"
   },
   {
     id: 10,
@@ -108,7 +108,7 @@ export const platillos: Platillo[] = [
     precio: 125,
     picante: 0,
     categoria: "Postres",
-    imagen: "/src/Images/TresLechesdeVainilla.avif"
+    imagen: "/images/TresLechesdeVainilla.avif"
   },
   {
     id: 11,
@@ -117,7 +117,7 @@ export const platillos: Platillo[] = [
     precio: 285,
     picante: 1,
     categoria: "Tacos Gourmet",
-    imagen: "/src/Images/TacosdeCarnitas.jpeg"
+    imagen: "/images/TacosdeCarnitas.jpeg"
   },
   {
     id: 12,
@@ -126,7 +126,7 @@ export const platillos: Platillo[] = [
     precio: 245,
     picante: 3,
     categoria: "Platos Fuertes",
-    imagen: "/src/Images/pozolerojo.jpeg"
+    imagen: "/images/pozolerojo.jpeg"
   },
   {
     id: 13,
@@ -135,7 +135,7 @@ export const platillos: Platillo[] = [
     precio: 165,
     picante: 1,
     categoria: "Entradas",
-    imagen: "/src/Images/SopaDeTortilla.avif"
+    imagen: "/images/SopaDeTortilla.avif"
   },
   {
     id: 14,
@@ -144,7 +144,7 @@ export const platillos: Platillo[] = [
     precio: 485,
     picante: 0,
     categoria: "Platos Fuertes",
-    imagen: "/src/Images/ArracheraPremiujm.jpg"
+    imagen: "/images/ArracheraPremiujm.jpg"
   },
   {
     id: 15,
@@ -153,7 +153,7 @@ export const platillos: Platillo[] = [
     precio: 135,
     picante: 0,
     categoria: "Postres",
-    imagen: "/src/Images/ChurrosconChocolateAbuelita.webp"
+    imagen: "/images/ChurrosconChocolateAbuelita.webp"
   },
   {
     id: 16,
@@ -162,7 +162,7 @@ export const platillos: Platillo[] = [
     precio: 195,
     picante: 0,
     categoria: "Entradas",
-    imagen: "/src/Images/QuesadillasFlordeCalabaza.webp"
+    imagen: "/images/QuesadillasFlordeCalabaza.webp"
   },
   {
     id: 17,
@@ -171,7 +171,7 @@ export const platillos: Platillo[] = [
     precio: 395,
     picante: 1,
     categoria: "Especialidades",
-    imagen: "/src/Images/MolePoblano.jpg"
+    imagen: "/images/MolePoblano.jpg"
   },
   {
     id: 18,
@@ -180,7 +180,7 @@ export const platillos: Platillo[] = [
     precio: 295,
     picante: 3,
     categoria: "Tacos Gourmet",
-    imagen: "/src/Images/CochinitaPibil.jpg"
+    imagen: "/images/CochinitaPibil.jpg"
   },
   {
     id: 19,
@@ -189,7 +189,7 @@ export const platillos: Platillo[] = [
     precio: 325,
     picante: 3,
     categoria: "Entradas",
-    imagen: "/src/Images/AguachiledeCamaron.webp"
+    imagen: "/images/AguachiledeCamaron.webp"
   },
   {
     id: 20,
@@ -198,7 +198,7 @@ export const platillos: Platillo[] = [
     precio: 420,
     picante: 2,
     categoria: "Tacos Gourmet",
-    imagen: "/src/Images/TacosRibeye.jpeg"
+    imagen: "/images/TacosRibeye.jpeg"
   },
   {
     id: 21,
@@ -207,7 +207,7 @@ export const platillos: Platillo[] = [
     precio: 465,
     picante: 1,
     categoria: "Platos Fuertes",
-    imagen: "/src/Images/SalmonCostraChia.jpg"
+    imagen: "/images/SalmonCostraChia.jpg"
   },
   {
     id: 22,
@@ -216,7 +216,7 @@ export const platillos: Platillo[] = [
     precio: 235,
     picante: 2,
     categoria: "Especialidades",
-    imagen: "/src/Images/TamalesOaxaqueños.jpg"
+    imagen: "/images/TamalesOaxaqueños.jpg"
   },
   {
     id: 23,
@@ -225,7 +225,7 @@ export const platillos: Platillo[] = [
     precio: 125,
     picante: 2,
     categoria: "Entradas",
-    imagen: "/src/Images/EsquitesGourmet.jpg"
+    imagen: "/images/EsquitesGourmet.jpg"
   },
   {
     id: 24,
@@ -234,7 +234,7 @@ export const platillos: Platillo[] = [
     precio: 525,
     picante: 0,
     categoria: "Platos Fuertes",
-    imagen: "/src/Images/CorderoEnSalsadeGranada.jpg"
+    imagen: "/images/CorderoEnSalsadeGranada.jpg"
   },
   {
     id: 25,
@@ -243,7 +243,7 @@ export const platillos: Platillo[] = [
     precio: 155,
     picante: 1,
     categoria: "Postres",
-    imagen: "/src/Images/MousseChocolateMexicano.jpg"
+    imagen: "/images/MousseChocolateMexicano.jpg"
   },
   {
     id: 26,
@@ -252,7 +252,7 @@ export const platillos: Platillo[] = [
     precio: 295,
     picante: 2,
     categoria: "Tacos Gourmet",
-    imagen: "/src/Images/TacosPescadoBajaCalifornia.jpg"
+    imagen: "/images/TacosPescadoBajaCalifornia.jpg"
   },
   {
     id: 27,
@@ -261,7 +261,7 @@ export const platillos: Platillo[] = [
     precio: 285,
     picante: 1,
     categoria: "Especialidades",
-    imagen: "/src/Images/EnchiladasSuizas.webp"
+    imagen: "/images/EnchiladasSuizas.webp"
   },
   {
     id: 28,
@@ -270,11 +270,11 @@ export const platillos: Platillo[] = [
     precio: 115,
     picante: 1,
     categoria: "Postres",
-    imagen: "/src/Images/HeladoDeMamey.avif"
+    imagen: "/images/HeladoDeMamey.avif"
   }
 ];
 
-// Bebidas con imágenes locales asignadas
+// Bebidas con imágenes locales asignadas desde public/images/
 export const bebidas: Bebida[] = [
   {
     id: 1,
@@ -282,7 +282,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Tequila blanco, triple sec, jugo de limón fresco y sal en el borde.",
     precio: 165,
     categoria: "Cócteles",
-    imagen: "/src/Images/Margarita.jpeg",
+    imagen: "/images/Margarita.jpeg",
     alcoholica: true
   },
   {
@@ -291,7 +291,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Bebida tradicional de arroz con canela, vainilla y leche condensada.",
     precio: 65,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/AguaDeHorchata.jpeg",
+    imagen: "/images/AguaDeHorchata.jpeg",
     alcoholica: false
   },
   {
@@ -300,7 +300,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Mezcal artesanal de Oaxaca servido con sal de gusano y naranja.",
     precio: 155,
     categoria: "Cócteles",
-    imagen: "/src/Images/Mezcal.webp",
+    imagen: "/images/Mezcal.webp",
     alcoholica: true
   },
   {
@@ -309,7 +309,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Cerveza mexicana ligera servida con limón y sal.",
     precio: 95,
     categoria: "Cervezas",
-    imagen: "/src/Images/CervezaCorona.jpeg",
+    imagen: "/images/CervezaCorona.jpeg",
     alcoholica: true
   },
   {
@@ -318,7 +318,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Refrescante bebida de flor de jamaica endulzada naturalmente.",
     precio: 85,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/AguadeJamaica.avif",
+    imagen: "/images/AguadeJamaica.avif",
     alcoholica: false
   },
   {
@@ -327,7 +327,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Vino tinto mexicano con notas frutales y especiadas.",
     precio: 320,
     categoria: "Vinos",
-    imagen: "/src/Images/VinoTintoCasaMadero.avif",
+    imagen: "/images/VinoTintoCasaMadero.avif",
     alcoholica: true
   },
   {
@@ -336,7 +336,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Cerveza Modelo con limón, sal, chamoy, clamato y salsas especiales.",
     precio: 115,
     categoria: "Cervezas",
-    imagen: "/src/Images/Michelada.jpeg",
+    imagen: "/images/Michelada.jpeg",
     alcoholica: true
   },
   {
@@ -345,7 +345,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Bebida agridulce de tamarindo con un toque de chile.",
     precio: 70,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/Aguatamarindo.jpeg",
+    imagen: "/images/Aguatamarindo.jpeg",
     alcoholica: false
   },
   {
@@ -354,7 +354,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Tequila 100% agave reposado en barricas de roble.",
     precio: 220,
     categoria: "Destilados",
-    imagen: "/src/Images/TequilaReposado.png",
+    imagen: "/images/TequilaReposado.png",
     alcoholica: true
   },
   {
@@ -363,7 +363,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Tequila blanco con toronja fresca, limón y sal.",
     precio: 145,
     categoria: "Cócteles",
-    imagen: "/src/Images/Paloma.jpeg",
+    imagen: "/images/Paloma.jpeg",
     alcoholica: true
   },
   {
@@ -372,7 +372,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Refrescante agua de sandía con chile y limón.",
     precio: 75,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/AguaSandia.jpg",
+    imagen: "/images/AguaSandia.jpg",
     alcoholica: false
   },
   {
@@ -381,7 +381,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Bebida ancestral fermentada del maguey, sabor natural.",
     precio: 280,
     categoria: "Destilados",
-    imagen: "/src/Images/pulque.jpeg",
+    imagen: "/images/pulque.jpeg",
     alcoholica: true
   },
   {
@@ -390,7 +390,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Limonada natural con agua mineral y hierbabuena.",
     precio: 80,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/Limonada.jpg",
+    imagen: "/images/Limonada.jpg",
     alcoholica: false
   },
   {
@@ -399,7 +399,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Vino blanco de Baja California con notas cítricas.",
     precio: 185,
     categoria: "Vinos",
-    imagen: "/src/Images/VinoBlancoLacetto.jpg",
+    imagen: "/images/VinoBlancoLacetto.jpg",
     alcoholica: true
   },
   {
@@ -408,7 +408,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Cerveza premium mexicana tipo lager.",
     precio: 105,
     categoria: "Cervezas",
-    imagen: "/src/Images/CervezaDosequis.jpg",
+    imagen: "/images/CervezaDosequis.jpg",
     alcoholica: true
   },
   {
@@ -417,7 +417,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Rum blanco con hierbabuena fresca, limón y chile.",
     precio: 125,
     categoria: "Cócteles",
-    imagen: "/src/Images/Mojito mexicano.webp",
+    imagen: "/images/Mojito mexicano.webp",
     alcoholica: true
   },
   {
@@ -426,7 +426,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Agua mineral natural con limón.",
     precio: 75,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/AguaMineral.jpeg",
+    imagen: "/images/AguaMineral.jpeg",
     alcoholica: false
   },
   {
@@ -435,7 +435,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Whisky mexicano añejado con notas ahumadas.",
     precio: 195,
     categoria: "Destilados",
-    imagen: "/src/Images/Whiskey nacional .webp",
+    imagen: "/images/Whiskey nacional .webp",
     alcoholica: true
   },
   {
@@ -444,7 +444,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Cerveza artesanal mexicana de temporada.",
     precio: 95,
     categoria: "Cervezas",
-    imagen: "/src/Images/CervezaArtesanal.webp",
+    imagen: "/images/CervezaArtesanal.webp",
     alcoholica: true
   },
   {
@@ -453,7 +453,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Vino tinto con frutas tropicales y especias mexicanas.",
     precio: 175,
     categoria: "Cócteles",
-    imagen: "/src/Images/Sangria.jpg",
+    imagen: "/images/Sangria.jpg",
     alcoholica: true
   },
   {
@@ -462,7 +462,7 @@ export const bebidas: Bebida[] = [
     descripcion: "Bebida fermentada de piña con canela y piloncillo.",
     precio: 70,
     categoria: "Sin Alcohol",
-    imagen: "/src/Images/Tepache.jpg",
+    imagen: "/images/Tepache.jpg",
     alcoholica: false
   }
 ];
